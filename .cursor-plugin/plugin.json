@@ -1,0 +1,20 @@
+{
+  "name": "hostbase",
+  "version": "1.0.0",
+  "description": "Look up reservations, availability, rates, guest reviews, refunds and revenue in Hostbase, the property management system for hotels, serviced apartments and short-term rentals.",
+  "author": {
+    "name": "Only Ventures LLC (d/b/a Hostbase)",
+    "email": "founders@hostbase.ai"
+  },
+  "homepage": "https://hostbase.ai/mcp",
+  "repository": "https://github.com/Usefnoureldin/hostbase-grok-bot-plugin",
+  "license": "MIT",
+  "keywords": [
+    "property management",
+    "hotel",
+    "reservations",
+    "short-term rental",
+    "hospitality"
+  ],
+  "logo": "assets/logo.png"
+}
